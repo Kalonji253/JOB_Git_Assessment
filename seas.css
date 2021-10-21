@@ -1,0 +1,51 @@
+body {
+	       font-family:Calibri, Arial;
+           background-color: lightgreen;
+}
+header h1 { 
+           padding-left: 20px;
+}
+header nav a {
+			background-color: #00C9a7;
+			color: white;
+			border: 2px outset black;
+			text-decoration: none;
+			width: 100px;
+			text-decoration:none;
+			text-align: center;
+			display:inline-block;
+			padding:14px 48.1px;
+}
+video{ display: block;
+       margin:auto;
+}
+h1 {        color: black;
+            text-align: center;
+}
+h2, h4{
+			text-align: center;
+}
+h1, h2  {   font-family: Cursive;
+			background-color:;
+			margin: 5px;
+}
+p {         text-align: center;
+            color: black;
+} 
+table tbody { 
+			background-color:lightblue;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;				
+}
+		
+footer {     font-size:90%;
+			 text-align: center;
+			 padding: 10px;
+			 background-color: green;
+			 clear: both;
+}	
+header, nav, footer, figure, figcaption { display: block; }
